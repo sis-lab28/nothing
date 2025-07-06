@@ -1,1 +1,1 @@
-Sitemap: https://sis-lab28.github.io/sitemap.xml
+Sitemap: https://sis-lab28.github.io/nothing/sitemap.xml
